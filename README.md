@@ -17,7 +17,7 @@ I really enjoy learning languages and frameworks like Java and Spring Boot.
 * Mockito
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=girmamogestekle&show_icons=true&theme=radical)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=girmamogestekle&show_icons=true&theme=radical) -->
 
 
 
