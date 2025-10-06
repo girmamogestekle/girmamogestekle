@@ -7,7 +7,7 @@ I really enjoy learning languages and frameworks like Java and Spring Boot.
 
 
 ## Skills and Experience
-# Languages
+#### Languages
   * Java
 
 * Spring Boot
