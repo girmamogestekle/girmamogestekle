@@ -7,7 +7,9 @@ I really enjoy learning languages and frameworks like Java and Spring Boot.
 
 
 ## Skills and Experience
-* Java
+# Languages
+  * Java
+
 * Spring Boot
 * Hinernate
 * Microservice
