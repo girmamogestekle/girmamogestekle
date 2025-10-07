@@ -56,6 +56,3 @@ A Spring Boot microservice-based backend for managing discovery, apigateway, api
 ---
 
 ⭐️ **“Code. Learn. Build. Repeat.”**
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=girmamogestekle&show_icons=true&theme=radical)
