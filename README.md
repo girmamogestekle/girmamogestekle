@@ -31,7 +31,7 @@
 
 ---
 
-#### 🧑‍🏫 [School Management System](https://github.com/girmamogestekle/SMSDiscoveryService)
+#### 🧑‍🏫 [School Management System](https://github.com/girmamogestekle/SMS)
 A Spring Boot microservice-based backend for managing discovery, apigateway, apispecs, students, school, and classes.  
 **Tech:** Java • Spring Boot • Microservices • MySQL • Docker • Swagger • Grafana • Promtail • Loki
 
