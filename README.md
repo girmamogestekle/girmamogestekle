@@ -26,6 +26,9 @@
 #### ☁️ Cloud & DevOps Tools
 `AWS` • `Docker` • `Grafana` • `Promtail` • `Loki` • `Splunk`
 
+#### 🤖 AI Tools
+`Cursor AI`
+
 #### 🧰 IDEs & Tools
 `IntelliJ IDEA` • `VS Code` • `Git` • `GitHub` • `Postman` • `MySql`
 
