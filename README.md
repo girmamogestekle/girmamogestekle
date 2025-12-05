@@ -34,9 +34,9 @@
 
 ---
 
-#### 🧑‍🏫 [School Management System](https://github.com/girmamogestekle/SMS)
-A Spring Boot microservice-based backend for managing discovery, apigateway, apispecs, students, school, and classes.  
-**Tech:** Java • Spring Boot • Microservices • MySQL • Docker • Swagger • Grafana • Promtail • Loki
+#### 🧑‍🏫 [Post And Comments App](https://github.com/girmamogestekle/Post-Comments-App)
+A real-world simulation of a social engagement backend system where users share posts and interact through comments.  
+**Tech:** Java 17 ▪ Spring Boot ▪ REST API ▪ SonarQube ▪ MySQL ▪ Docker ▪ Swagger ▪ GitHub Actions ▪ Cursor AI
 
 ---
 
