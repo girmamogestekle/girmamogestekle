@@ -34,7 +34,7 @@
 
 ---
 
-#### 🧑‍🏫 [Post And Comments App](https://github.com/girmamogestekle/Post-Comments-App)
+#### 👷‍♂️ [Post And Comments App](https://github.com/girmamogestekle/Post-Comments-App)
 A real-world simulation of a social engagement backend system where users share posts and interact through comments.  
 **Tech:** Java 17 ▪ Spring Boot ▪ REST API ▪ SonarQube ▪ MySQL ▪ Docker ▪ Swagger ▪ GitHub Actions ▪ Cursor AI
 
