@@ -2,41 +2,41 @@
 
 
 <h1 align="center">Hi there 👋, I'm Girma Moges Teklemariam</h1>
-<h3 align="center">🚀 Software Engineer | AI Enthusiast | Passionate Problem Solver</h3>
+<h3 align="center">🚀 Backend Developer (Java,SpringBoot,DataBase and AWS Cloud) | AI Enthusiast | Passionate Problem Solver</h3>
 
 ---
 
 ### 🧠 About Me
-- 💻 I’m a **Software Engineer** with 3+ years of experience in **Java, Spring Boot, JavaScript, and SQL**  
+- 💻 I’m a **Backend Developer** with 3+ years of experience in **Java, Spring Boot, DataBase and AWS Cloud**  
 - 🎓 Holder of a **Master’s Degree in Computer Science (2022)**  
 - 🧩 Recently worked as a **Model Training Specialist at Outlier (USA)** — training and optimizing AI models  
-- ☁️ Currently exploring **Cloud Engineering, Microservices, and DevOps tools (AWS, Docker, Grafana, Promtail, Loki)**  
-- 🧑‍💻 Building projects that combine **AI + Cloud + Software Engineering**
+- ☁️ Currently exploring **Backend Developer, and Cloud Engineering**  
+- 🧑‍💻 Building projects that combine **Backend Developer + AI + Cloud**
 
 ---
 
 ### 🛠️ Tech Stack
 
 #### 💻 Programming Languages
-`Java` • `JavaScript` • `SQL`
+`Java` • `JavaScript` • `Python`
 
 #### ⚙️ Frameworks & Libraries
 `Spring Boot` • `JUnit 5`
 
 #### ☁️ Cloud & DevOps Tools
-`AWS` • `Docker` • `Grafana` • `Promtail` • `Loki` • `Splunk`
+`AWS` • `CICD(Jenkins and GitHubAction)` • `Docker` • `Grafana` • `Promtail` • `Loki` • `Splunk`
 
 #### 🤖 AI Tools
-`Cursor AI`
+`Cursor AI` • `ClaudeAI` • `ChatGPT`
 
 #### 🧰 IDEs & Tools
 `IntelliJ IDEA` • `VS Code` • `Git` • `GitHub` • `Postman` • `MySql`
 
 ---
 
-#### 👷‍♂️ [Post And Comments App](https://github.com/girmamogestekle/Post-Comments-App)
+#### 👷‍♂️ [Post-Comments Application](https://github.com/girmamogestekle/Post-Comments-App)
 A real-world simulation of a social engagement backend system where users share posts and interact through comments.  
-**Tech:** Java 17 ▪ Spring Boot ▪ REST API ▪ SonarQube ▪ MySQL ▪ Docker ▪ Swagger ▪ GitHub Actions ▪ Cursor AI
+**Tech:** Java 17 ▪ Spring Boot ▪ REST API ▪ SonarQube ▪ H2DB ▪ Docker ▪ Swagger ▪ GitHub Actions ▪ Cursor AI
 
 ---
 
