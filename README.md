@@ -7,7 +7,7 @@
 ---
 
 ### 🧠 About Me
-- 💻 I’m a **Backend Developer** with 3+ years of experience in **Java, Spring Boot, DataBase and AWS Cloud**  
+- 💻 I’m a **Backend Developer** with 5+ years of experience in **Java, Spring Boot, DataBase and AWS Cloud**  
 - 🎓 Holder of a **Master’s Degree in Computer Science (2022)**  
 - 🧩 Recently worked as a **Model Training Specialist at Outlier (USA)** — training and optimizing AI models  
 - ☁️ Currently exploring **Backend Developer, and Cloud Engineering**  
