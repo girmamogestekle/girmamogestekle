@@ -67,8 +67,6 @@ My core expertise is in **Java, Spring Boot, microservices, databases, cloud-nat
 
 ### AI & Machine Learning
 
-### AI & Machine Learning
-
 ![Large Language Models](https://img.shields.io/badge/Large_Language_Models-LLMs-412991?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-0A66C2?style=for-the-badge)
