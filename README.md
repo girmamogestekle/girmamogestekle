@@ -51,37 +51,16 @@ My core expertise is in **Java, Spring Boot, microservices, databases, cloud-nat
 
 ### APIs, Architecture & Messaging
 
-![Microservices](https://img.shields.io/badge/Microservices-0052CC?style=for-the-badge)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![SOAP](https://img.shields.io/badge/SOAP-0078D4?style=for-the-badge)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapiinitiative&logoColor=white)
-![Model Context Protocol](https://img.shields.io/badge/MCP-Model_Context_Protocol-6E56CF?style=for-the-badge)
-![Domain-Driven Design](https://img.shields.io/badge/Domain--Driven_Design-DDD-0A66C2?style=for-the-badge)
-![Object-Oriented Design](https://img.shields.io/badge/Object--Oriented_Design-OOD-FF6F00?style=for-the-badge)
-![Design Patterns](https://img.shields.io/badge/Design_Patterns-Gang_of_Four-8E44AD?style=for-the-badge)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![ActiveMQ](https://img.shields.io/badge/Apache_ActiveMQ-D22128?style=for-the-badge&logo=apache&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+`Microservices` • `REST APIs` • `GraphQL` • `SOAP` • `OpenAPI` • `MCP` •
+`Domain-Driven Design` • `Object-Oriented Design` • `Design Patterns` •
+`Apache Kafka` • `RabbitMQ` • `ActiveMQ` • `Redis`
 
 ### AI & Machine Learning
 
-![Large Language Models](https://img.shields.io/badge/Large_Language_Models-LLMs-412991?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-0A66C2?style=for-the-badge)
-![Fine-Tuning](https://img.shields.io/badge/Fine--Tuning-7B1FA2?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI_Embeddings-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging_Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Natural Language Processing](https://img.shields.io/badge/NLP-Natural_Language_Processing-1976D2?style=for-the-badge)
-![Vector Database](https://img.shields.io/badge/Vector_Database-009688?style=for-the-badge)
-![Semantic Search](https://img.shields.io/badge/Semantic_Search-3949AB?style=for-the-badge)
-![AI Model Evaluation](https://img.shields.io/badge/AI_Model_Evaluation-00897B?style=for-the-badge)
-![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Cursor AI](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge)
+`Large Language Models` • `Prompt Engineering` • `RAG` • `Fine-Tuning` •
+`OpenAI Embeddings` • `LangChain` • `Hugging Face Transformers` •
+`NLP` • `Vector Databases` • `Semantic Search` • `AI Model Evaluation` •
+`Claude` • `GPT` • `Ollama` • `Cursor AI`
 
 ### Databases
 
