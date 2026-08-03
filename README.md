@@ -106,6 +106,9 @@ An **AI-powered comment intelligence platform** designed to analyze and understa
 
 ## 💼 Professional Experience
 
+### Freelance Software Engineer
+[![Hire Me on Upwork](https://img.shields.io/badge/Upwork-Profile-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~011026e867b7fcf729?mp_source=share)
+
 ### AI Model Training Specialist | AI Data Specialist
 
 **Handshake AI & Outlier — Remote, USA | 2024–Present**
